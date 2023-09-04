@@ -2,14 +2,9 @@
 title: "Machine Learning-based ALS Diagnosis Using Gene Expression Data"
 collection: publications
 permalink: /publication/paper6
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://longvd336.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: "We explore the gene expression of the Amyotrophic lateral sclerosis (ALS) - an rare disease that lacks of research nowadays, especially in Vietnam. An sequential of gene selection and gene ranking are considered as the effective procedure for identify signature biomarker realted to ALS. Besides, an powerful diagnosis model is constructed based on the selecte genes which perform overpower the current study of prediction ALS disease."
+date: 2023-10-01
+venue: 'RIVF International Conference on Computing and Communication Technologies (RIVF)'
+paperurl: 'https://longvd336.github.io/files/paper3.pdf'
+citation: 'Please cite this paper via IEEE citation format'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://longvd336.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
