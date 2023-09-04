@@ -5,6 +5,6 @@ permalink: /publication/paper3
 excerpt: 'In this paper we proposed a novel approach for developing an smart wearable device that support visually impaired people.'
 date: 2022-10-01
 venue: 'Journal of Science and Technology on Information and Communications'
-paperurl: 'https://longvd336.github.io/files/paper3.pdf'
+paperurl: 'https://jstic.ptit.edu.vn/jstic-ptit/index.php/jstic/article/view/1360'
 citation: 'Please cite this paper via IEEE citation format '
 ---

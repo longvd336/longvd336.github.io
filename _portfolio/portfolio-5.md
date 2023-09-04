@@ -1,6 +1,6 @@
 ---
 title: "Friends"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/11.jpg'>"
+excerpt: "Whole squad!!!<br/><img src='/images/11.jpg'>"
 collection: portfolio
 ---
 

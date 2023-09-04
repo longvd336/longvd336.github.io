@@ -10,20 +10,19 @@ redirect_from:
 
 ![Illustration of combining vision and language modalities](/images/one.jpg){: .align-right width="300px"}
 
-👨🏻‍💻 I recently obtained Honor Engineering Degree in Electronics and Telecommunications at the Posts and Telecommunications Instidute of Technologyy (PTIT) - Hanoi, Viet Nam. Now, I'm Teaching Assistant at Telecommunications Faculty I - PTIT.
+👨🏻‍💻 I have recently earned an Honors Engineering Degree in Electronics and Telecommunications from the Posts and Telecommunications Institute of Technology (PTIT) in Hanoi, Vietnam. Currently, I am serving as a Teaching Assistant at the Telecommunications Faculty I within PTIT.
 
 🔬 My research interests are in Bioinformatics and Applying Machine Learning in solving real world problems.
 
-📚 I'm currently looking opportunity for pursuing PhD in the field of Machine Learning in Europe.
+📚 I am currently seeking opportunities to pursue a Ph.D. in the field of Machine Learning in Europe.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and Computer Network.
+📽️ I'm also keen to provide assistance to others on their journey in the fields of Machine Learning and Computer Networks.
 
 # Experience
 
 ## 👨🏻‍🔬 Professional Experience
 During my time as a Research Assistant at the Data and Intelligent Systems Laboratory, I had the privilege of diving into a realm where the boundaries of knowledge blur, working on cutting-edge projects that harnessed the power of AI to tackle real-world challenges. Here are a few standout ventures that I had the pleasure of being part of:
 - *Design A low-cost AI-based smart wearable device for supporting visually impaired people* (PI)
-
 - *Smart IoT device for face recognition and temperature detection using thermal images based on Deep Learning, open-source IoT platforms, and mini-computer as edge devices.* (PI)
 - *Pediatric Sepsis Diagnosis Based on Differential Gene Expression and Machine Learning method* (PI)
 - *Efficient methodology for gene expression analysis based on Deep Learning for ALS disease* (PI)
@@ -33,9 +32,10 @@ During my time as a Research Assistant at the Data and Intelligent Systems Labor
 - *Research and Improve Video Streaming Protocol by DASH protocol* granted by **Naver AI Research** (Key member)
 - *Develop a face recognition and forehead temperature system for detecting fever symptoms based on Machine Learning techniques, edge devices, and IoT platforms* granted by **NAVER AI Research** (Key member)
 
+![labparty](/images/4.jpg)
 
 ## 👨🏻‍💻 Industry Experience
-I had worked as Intern in two companies during my undergraduate. More detail below :D 
+I had the privilege of undertaking internships with two esteemed companies during my undergraduate studies. More detail below :D 
 
 ### Data Scientist Intern - PIXTA Vietnam
 **Time**: Sep. 2022 - Oct. 2022\
@@ -48,7 +48,7 @@ I had worked as Intern in two companies during my undergraduate. More detail bel
 when adding compute and memory resources to virtual machines.\
 *- Develop a web application to solve the problem of distance between administrators and the system and optimize time in managing and deploying services using Ansible*
 # 📜 Honors and Awards
-Additionally, I am very active student with passion on researching and invention smart devices for helping people. I am very honor for obtaining some award when I was undergradudate student:
+Furthermore, I am an exceptionally engaged student with a deep enthusiasm for conducting research and creating innovative smart devices designed to assist individuals. I take great pride in having received accolades during my undergraduate years:
 - First Prize in the PTIT Student’s Scientific Research Contest - *Dec. 2021*
 - Viettel Digital Talent 2021 scholarship for students with excellent performance in the VDT program - *Oct. 2021*
 - Honda Award 2021 program for 100 Vietnamese students with excellent academic performance - *Mar. 2022*
@@ -59,6 +59,7 @@ Additionally, I am very active student with passion on researching and invention
 - 6th DTU Summer Research School scholarship for 44 Vietnamese students - *June. 2023*
 - Full scholarship for Summer School in Modern Machine Learning for 40 Vietnamese students - *August. 2023*
 - PTIT scholarship for students with outstanding academic results. *(2018-2019, 2020-2021, 2021-2022)*
+![football](/images/9.jpg)
 
 
 ## 📚 Volunteering
