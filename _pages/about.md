@@ -10,11 +10,11 @@ redirect_from:
 
 ![Illustration of combining vision and language modalities](/images/one.jpg){: .align-right width="300px"}
 
-👨🏻‍💻 I have recently earned an Honors Engineering Degree in Electronics and Telecommunications from the Posts and Telecommunications Institute of Technology (PTIT) in Hanoi, Vietnam. Currently, I am serving as a Teaching Assistant at the Telecommunications Faculty I within PTIT.
+👨🏻‍💻 I have recently earned an Honors Engineering Degree in Electronics and Telecommunications from the Posts and Telecommunications Institute of Technology (PTIT) in Hanoi, Vietnam. Currently, I am serving as a Lecturer Assistant at the Telecommunications Faculty I within PTIT.
 
-🔬 My research interests are in Bioinformatics and Applying Machine Learning in solving real world problems.
+🔬 My research interests include Machine Learning and Applying AI for dealing with sustainable development issue.
 
-📚 I am currently seeking opportunities to pursue a Ph.D. in the field of Machine Learning in Europe.
+📚 I will be going to the New Jersey Institute of Technology in Fall 2024 to pursue a PhD degree in Data Science under the guidance of Professor. Hai Phan:D
 
 📽️ I'm also keen to provide assistance to others on their journey in the fields of Machine Learning and Computer Networks.
 
@@ -31,6 +31,8 @@ During my time as a Research Assistant at the Data and Intelligent Systems Labor
 - *Research and develop a smart system for health monitoring and abnormal detection based on electrocardiogram signal* (Key member)
 - *Research and Improve Video Streaming Protocol by DASH protocol* granted by **Naver AI Research** (Key member)
 - *Develop a face recognition and forehead temperature system for detecting fever symptoms based on Machine Learning techniques, edge devices, and IoT platforms* granted by **NAVER AI Research** (Key member)
+- *Deep Learning Based Signal Modulation Identification in ODFM systems* (Key member)
+- *Research and develop a smart system for health monitoring and abnormal detection based on electrocardiogram signal* granted by **NAVER AI Research** (Key Member)
 
 ![labparty](/images/4.jpg)
 
@@ -56,8 +58,10 @@ Furthermore, I am an exceptionally engaged student with a deep enthusiasm for co
 - Third Prize in the National Student Scientific Research Contest - *Dec. 2022*
 - First Prize in the PTIT Student’s Scientific Research Contest - *Dec. 2022*
 - Merit Award for students who have outstanding academic results at PTIT - *Apr. 2023*
-- 6th DTU Summer Research School scholarship for 44 Vietnamese students - *June. 2023*
-- Full scholarship for Summer School in Modern Machine Learning for 40 Vietnamese students - *August. 2023*
+- 6th DTU Summer Research School scholarship for 44 Vietnamese students - *Jun. 2023*
+- Full scholarship for Summer School in Modern Machine Learning for 40 Vietnamese students - *Aug. 2023*
+- Merit Award for students who have excellent research results at PTIT - *Sep. 2023*
+- Third Prize in the National Student Scientific Research Contest - *Dec. 2023*
 - PTIT scholarship for students with outstanding academic results. *(2018-2019, 2020-2021, 2021-2022)*
 ![football](/images/9.jpg)
 
