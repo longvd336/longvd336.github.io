@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper5
 excerpt: 'We develop a novel approach leverage the effectiveness of Principal Component Analysis and Machine Learning to select potential gene biomarker.'
 date: 2023-10-01
-venue: 'International Conference on Intelligent Systems and Data Science (ISDS)'
-paperurl: 'https://longvd336.github.io/files/paper3.pdf'
+venue: ' International Symposium on Information and Communication Technology (SOICT 2023)'
+paperurl: 'https://longvd336.github.io/files/soict2023-6182.pdf'
 citation: 'Please cite this paper via IEEE citation format'
 ---

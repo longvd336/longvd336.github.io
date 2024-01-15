@@ -17,7 +17,7 @@ redirect_from:
 📚 I will be going to the New Jersey Institute of Technology in Fall 2024 to pursue a PhD degree in Data Science under the guidance of Professor. Hai Phan:D
 
 📽️ I'm also keen to provide assistance to others on their journey in the fields of Machine Learning and Computer Networks.
-
+![rivf2023](/images/rivf1.jpg)
 # Experience
 
 ## 👨🏻‍🔬 Professional Experience
