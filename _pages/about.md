@@ -14,7 +14,7 @@ redirect_from:
 
 🔬 My research interests include Machine Learning and Applying AI for dealing with sustainable development issue.
 
-📚 I will be going to the New Jersey Institute of Technology in Fall 2024 to pursue a PhD degree in Data Science under the guidance of Professor. Hai Phan:D
+📚 I will be going to the New Jersey Institute of Technology in Fall 2024 to pursue a PhD degree in Data Science :D
 
 📽️ I'm also keen to provide assistance to others on their journey in the fields of Machine Learning and Computer Networks.
 ![rivf2023](/images/rivf1.jpg)
@@ -62,6 +62,7 @@ Furthermore, I am an exceptionally engaged student with a deep enthusiasm for co
 - Full scholarship for Summer School in Modern Machine Learning for 40 Vietnamese students - *Aug. 2023*
 - Merit Award for students who have excellent research results at PTIT - *Sep. 2023*
 - Third Prize in the National Student Scientific Research Contest - *Dec. 2023*
+- VEF Fellow - *2024*
 - PTIT scholarship for students with outstanding academic results. *(2018-2019, 2020-2021, 2021-2022)*
 ![football](/images/9.jpg)
 
